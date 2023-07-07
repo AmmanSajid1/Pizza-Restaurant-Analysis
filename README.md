@@ -1,4 +1,4 @@
-# Pizza-Restaurant-Analysis
+# Pizza Restaurant Analysis
 <br>
 
 **Tool** : Jupyter Notebook | [Link Notebook](https://github.com/AmmanSajid1/Pizza-Restaurant-Analysis/blob/main/Pizza-Restaurant-Analysis.ipynb)<br>
